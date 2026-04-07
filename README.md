@@ -79,7 +79,7 @@ A digital product (customize this line — e.g. subscription tool / SaaS idea)
 ## 📫 Connect With Me
 
 * 📧 [obaloluwaajayi2006@gmail.com](mailto:obaloluwaajayi2006@gmail.com)
-* 💼 https://linkedin.com/in/obaloluwa-ajayi-0429b1297?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+* 💼 https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 ---
 
