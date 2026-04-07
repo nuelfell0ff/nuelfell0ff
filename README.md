@@ -1,16 +1,88 @@
-## Hi there 👋
+# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi
 
-<!--
-**nuelfell0ff/nuelfell0ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | Building Real-World Products
 
-Here are some ideas to get you started:
+I design and develop scalable, user-focused applications — from idea to production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
+---
+
+## 🧠 About Me
+
+* 🔭 Building and shipping **real-world applications**
+* 🌱 Exploring **scalable systems, backend architecture & AI integrations**
+* 💡 Passionate about **products, startups, and problem-solving**
+* ⚡ Focused on **clean code + great user experience**
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+HTML • CSS • JavaScript • React • Bootstrap • 
+
+**Backend**
+Node.js • Express
+
+**Database**
+MongoDB • Firebase • Supabase
+
+**Tools & Deployment**
+Git • GitHub • Vercel
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Lexi AI
+
+AI-powered virtual assistant for real-time intelligent interactions
+🔗 https://github.com/nuelfell0ff/lexi-ai
+
+---
+
+### 💸 Fintra — Expense Tracker
+
+Smart expense tracking app for managing personal finances
+🔗 https://github.com/nuelfell0ff/Fintra-Expense-Tracker
+
+---
+
+### 🛒 E-Store
+
+Modern e-commerce platform with product management and user flow
+🔗 https://github.com/nuelfell0ff/e-store
+
+---
+
+### ⚡ Subtra
+
+A digital product (customize this line — e.g. subscription tool / SaaS idea)
+🔗 https://github.com/nuelfell0ff/subtra
+
+---
+
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?nuelfell0ff=nuelfell0ff&show_icons=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nuelfell0ff&hide_border=true" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [your@email.com](mailto:obaloluwaajayi2006@gmail.com)
+* 💼 https://linkedin.com/in/yourprofile
+
+---
+
+## ⚡ Philosophy
+
+> Don’t just build projects — build products people can use.
