@@ -22,6 +22,8 @@ I design and develop scalable, user-focused applications — from idea to produc
 
 ---
 
+
+
 ## 🛠️ Tech Stack
 
 **Frontend**
