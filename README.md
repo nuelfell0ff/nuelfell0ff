@@ -1,93 +1,79 @@
-# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi.
+# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi
 
 ### 🚀 Full-Stack Developer | Building Real-World Products
+I design, architect, and develop scalable, user-focused applications — taking them from initial concept straight to production.
 
-I design and develop scalable, user-focused applications — from idea to production.
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Building and shipping **real-world applications**
-* 🌱 Exploring **scalable systems, backend architecture & AI integrations**
-* 💡 Passionate about **products, startups, and problem-solving**
-* ⚡ Focused on **clean code + great user experience**
+* **🔭 Currently Active:** Building, launching, and maintaining production-ready web platforms.
+* **🌱 Tech Exploration:** Diving deep into scalable system architecture, optimized data fetching, and performance engineering.
+* **💡 core Passion:** Bridging the gap between clean code and exceptional user experience to solve real startup problems.
+* **🎯 Philosophy:** *"Don’t just build projects — build products people actually use."*
 
 ---
-
-
-
-
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-HTML • CSS • JavaScript • React • Bootstrap • 
+### 🖥️ Frontend
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frameworks & Libraries:** Next.js, React, Bootstrap, Tailwind CSS
 
-**Backend**
-Node.js • Express
+### ⚙️ Backend & APIs
+* **Runtime & Frameworks:** Node.js, Express.js
+* **API Architectures:** GraphQL, REST APIs
 
-**Database**
-MongoDB • Firebase • Supabase
+### 🗄️ Database & Cloud
+* **Databases:** MongoDB
+* **BaaS / Serverless:** Supabase, Firebase
 
-**Tools & Deployment**
-Git • GitHub • Vercel
+### 🔧 Tools & Deployment
+* **Version Control:** Git & GitHub
+* **Hosting Platforms:** Vercel, Netlify
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Products
 
 ### 🩺 Lexi AI
-
-AI-powered virtual assistant for real-time intelligent interactions
-🔗 https://github.com/nuelfell0ff/lexi-ai
-
----
+AI-powered virtual assistant built for real-time intelligent conversations and context-aware interactions.
+👉 **[View Repository](https://github.com/nuelfell0ff/lexi-ai)**
 
 ### 💸 Fintra — Expense Tracker
-
-Smart expense tracking app for managing personal finances
-🔗 https://github.com/nuelfell0ff/Fintra-Expense-Tracker
-
----
+Smart, intuitive expense management platform designed to track, categorize, and optimize personal finances.
+👉 **[View Repository](https://github.com/nuelfell0ff/Fintra-Expense-Tracker)**
 
 ### 🛒 E-Store
-
-Modern e-commerce platform with product management and user flow
-🔗 https://github.com/nuelfell0ff/e-store
-
----
+Modern e-commerce architecture complete with dynamic product management, state-managed shopping flows, and clean checkout routing.
+👉 **[View Repository](https://github.com/nuelfell0ff/e-store)**
 
 ### ⚡ Subtra
-
-A digital product (customize this line — e.g. subscription tool / SaaS idea)
-🔗 https://github.com/nuelfell0ff/subtra
+A dynamic software-as-a-service application built to streamline recurring payment structures and digital product subscriptions.
+👉 **[View Repository](https://github.com/nuelfell0ff/subtra)**
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nuelfell0ff=nuelfell0ff&show_icons=true&hide_border=true" />
-  <img src="https://streak-stats.demolab.com?user=nuelfell0ff&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-* 📧 [obaloluwaajayi2006@gmail.com](mailto:obaloluwaajayi2006@gmail.com)
-* 💼 https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
----
-
-## ⚡ Philosophy
-
-> Don’t just build projects — build products people can use.
+* **Email:** [obaloluwaajayi2006@gmail.com](mailto:obaloluwaajayi2006@gmail.com)
+* **LinkedIn:** [Obaloluwa Ajayi](https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279)
+* **GitHub Professional Handle:** [@code_with_nuel](https://github.com/nuelfell0ff)
