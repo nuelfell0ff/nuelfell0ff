@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi
+# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi.
 
 ### 🚀 Full-Stack Developer | Building Real-World Products
 I design, architect, and develop scalable, user-focused applications — taking them from initial concept straight to production.
