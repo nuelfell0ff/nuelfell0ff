@@ -66,7 +66,7 @@ A dynamic software-as-a-service application built to streamline recurring paymen
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" /> -->
   <img src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
