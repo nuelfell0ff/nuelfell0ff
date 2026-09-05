@@ -1,79 +1,211 @@
-# 👋 Hi, I'm Obaloluwa Emmanuel Ajayi.
+# Hi 👋 I'm Obaloluwa Emmanuel Ajayi
 
 ### 🚀 Full-Stack Developer | Building Real-World Products
-I design, architect, and develop scalable, user-focused applications — taking them from initial concept straight to production.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/GraphQL-000?style=for-the-badge&logo=graphql&logoColor=E10098" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+Full-Stack Developer focused on building scalable, production-ready applications
+with modern web technologies.
+
+<p align="center">
+  <a href="https://github.com/nuelfell0ff">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:obaloluwaajayi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🌐 Connect with Me
 
-* **🔭 Currently Active:** Building, launching, and maintaining production-ready web platforms.
-* **🌱 Tech Exploration:** Diving deep into scalable system architecture, optimized data fetching, and performance engineering.
-* **💡 core Passion:** Bridging the gap between clean code and exceptional user experience to solve real startup problems.
-* **🎯 Philosophy:** *"Don’t just build projects — build products people actually use."*
+<p align="left">
+  <a href="https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:obaloluwaajayi2006@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nuelfell0ff">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 🖥️ Frontend
-* **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Frameworks & Libraries:** Next.js, React, Bootstrap, Tailwind CSS
+- 🔭 Building and maintaining production-ready web platforms
+- 🌱 Exploring scalable system architecture and performance engineering
+- 💡 Passionate about turning ideas into real-world products
+- ⚡ Focused on clean architecture, great UX, and maintainable code
+- 🎯 *Don't just build projects — build products people actually use.*
 
-### ⚙️ Backend & APIs
-* **Runtime & Frameworks:** Node.js, Express.js
-* **API Architectures:** GraphQL, REST APIs
+---
 
-### 🗄️ Database & Cloud
-* **Databases:** MongoDB
-* **BaaS / Serverless:** Supabase, Firebase
+## 💻 Tech Stack
 
-### 🔧 Tools & Deployment
-* **Version Control:** Git & GitHub
-* **Hosting Platforms:** Vercel, Netlify
+### 🚀 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+</p>
+
+### 🗄️ Database & Backend Services
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
+</p>
+
+---
+
+## 🧰 Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=tokyo-night&hide_border=true"
+    width="100%"
+  />
+</p>
 
 ---
 
 ## 🚀 Featured Products
 
-### 🩺 Lexi AI
-AI-powered virtual assistant built for real-time intelligent conversations and context-aware interactions.
-👉 **[View Repository](https://github.com/nuelfell0ff/lexi-ai)**
+<table>
+<tr>
+<td width="50%">
 
-### 💸 Fintra — Expense Tracker
-Smart, intuitive expense management platform designed to track, categorize, and optimize personal finances.
-👉 **[View Repository](https://github.com/nuelfell0ff/Fintra-Expense-Tracker)**
+### 🩺 Lexi AI
+
+AI-powered virtual assistant designed for intelligent,
+real-time and context-aware conversations.
+
+<a href="https://github.com/nuelfell0ff/lexi-ai">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💸 Fintra
+
+Smart expense management platform for tracking,
+categorizing and managing personal finances.
+
+<a href="https://github.com/nuelfell0ff/Fintra-Expense-Tracker">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛒 E-Store
-Modern e-commerce architecture complete with dynamic product management, state-managed shopping flows, and clean checkout routing.
-👉 **[View Repository](https://github.com/nuelfell0ff/e-store)**
+
+Modern e-commerce application with dynamic product
+management and shopping workflows.
+
+<a href="https://github.com/nuelfell0ff/e-store">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%">
 
 ### ⚡ Subtra
-A dynamic software-as-a-service application built to streamline recurring payment structures and digital product subscriptions.
-👉 **[View Repository](https://github.com/nuelfell0ff/subtra)**
+
+SaaS application designed to streamline recurring
+payments and digital product subscriptions.
+
+<a href="https://github.com/nuelfell0ff/subtra">
+<img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Insights
+## 📌 Random Dev Quote
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" /> -->
-  <img src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=dark&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    width="100%"
+  />
 </p>
 
 ---
 
-## 📫 Let's Connect
+## 🤝 Let's Connect
 
-* **Email:** [obaloluwaajayi2006@gmail.com](mailto:obaloluwaajayi2006@gmail.com)
-* **LinkedIn:** [Obaloluwa Ajayi](https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279)
-* **GitHub Professional Handle:** [@code_with_nuel](https://github.com/nuelfell0ff)
+<p align="center">
+  <a href="mailto:obaloluwaajayi2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-obaloluwaajayi2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279">
+    <img src="https://img.shields.io/badge/LinkedIn-Obaloluwa_Ajayi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>Building products. Solving problems. Learning continuously.</i>
+</p>
