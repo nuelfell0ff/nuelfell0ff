@@ -102,10 +102,12 @@ with modern web technologies.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=tokyo-night&hide_border=true"
-    width="100%"
-  />
+  <a href="https://github.com/nuelfell0ff">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=tokyo-night&hide_border=true"
+      alt="Obaloluwa Emmanuel Ajayi's GitHub Activity Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -182,17 +184,6 @@ payments and digital product subscriptions.
 </p>
 
 ---
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="mailto:obaloluwaajayi2006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-obaloluwaajayi2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279">
-    <img src="https://img.shields.io/badge/LinkedIn-Obaloluwa_Ajayi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <i>Building products. Solving problems. Learning continuously.</i>
