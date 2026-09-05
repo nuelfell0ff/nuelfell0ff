@@ -88,10 +88,6 @@ with modern web technologies.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nuelfell0ff&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    height="180"
-  />
-  <img
     src="https://streak-stats.demolab.com?user=nuelfell0ff&theme=tokyonight&hide_border=true"
     height="180"
   />
