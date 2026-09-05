@@ -97,20 +97,6 @@ with modern web technologies.
   />
 </p>
 
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/nuelfell0ff">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=tokyo-night&hide_border=true"
-      alt="Obaloluwa Emmanuel Ajayi's GitHub Activity Graph"
-    />
-  </a>
-</p>
-
----
 
 ## 🚀 Featured Products
 
