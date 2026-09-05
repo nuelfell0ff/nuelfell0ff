@@ -99,8 +99,8 @@ with modern web technologies.
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=github-compact&hide_border=true"
-    alt="GitHub Contribution Graph"
+    src="https://raw.githubusercontent.com/nuelfell0ff/nuelfell0ff/output/activity-graph.svg"
+    alt="Obaloluwa Emmanuel Ajayi's GitHub Contribution Graph"
     width="100%"
   />
 </p>
