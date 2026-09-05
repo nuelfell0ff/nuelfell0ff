@@ -93,6 +93,18 @@ with modern web technologies.
   />
 </p>
 
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/nuelfell0ff/YOUR-REPO/output/activity-graph.svg"
+    alt="GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
 
 ## 🚀 Featured Products
 
