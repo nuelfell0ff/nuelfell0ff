@@ -99,7 +99,7 @@ with modern web technologies.
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/nuelfell0ff/YOUR-REPO/output/activity-graph.svg"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nuelfell0ff&theme=github-compact&hide_border=true"
     alt="GitHub Contribution Graph"
     width="100%"
   />
