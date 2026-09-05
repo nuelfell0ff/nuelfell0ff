@@ -1,4 +1,4 @@
-# Hi 👋 I'm Obaloluwa Emmanuel Ajayi
+# Hi, I'm Obaloluwa Emmanuel Ajayi .
 
 ### 🚀 Full-Stack Developer | Building Real-World Products
 
@@ -9,7 +9,7 @@ with modern web technologies.
 
 ## 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/obaloluwa-ajayi-0429b1279">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
