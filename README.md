@@ -38,7 +38,13 @@ with modern web technologies.
 ### 🚀 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,dart,flutter,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,dart,flutter,tailwind" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
 </p>
 
 ### ⚙️ Backend
