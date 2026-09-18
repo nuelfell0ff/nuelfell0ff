@@ -41,7 +41,7 @@ with modern web technologies.
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
 </p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,dart,flutter,tailwind, bootstrap" />
+  <img src="https://skillicons.dev/icons?i=nextjs,dart,flutter,tailwind,bootstrap" />
 </p>
 
 ### ⚙️ Backend
