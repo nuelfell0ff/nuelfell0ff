@@ -48,13 +48,13 @@ with modern web technologies.
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,nestjs" />
 </p>
 
 ### 🗄️ Database & Backend Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgresql" />
 </p>
 
 ### 🛠️ Tools & Platforms
