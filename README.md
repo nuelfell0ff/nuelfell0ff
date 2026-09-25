@@ -54,7 +54,7 @@ with modern web technologies.
 ### 🗄️ Database & Backend Services
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgresql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase,firebase,postgresql,prisma" />
 </p>
 
 ### 🛠️ Tools & Platforms
