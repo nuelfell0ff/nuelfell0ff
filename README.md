@@ -5,6 +5,8 @@
 Full-Stack Developer focused on building scalable, production-ready applications
 with modern web technologies.
 
+---
+
 ## 🌐 Connect with Me
 
 <p align="left">
